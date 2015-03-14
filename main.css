@@ -1,0 +1,10 @@
+body{
+	background: url(images/elementaryback.jgp) no-repeat ;
+	
+}
+
+.control{
+	position: relative;
+	float: right;
+	cursor: pointer;
+}
